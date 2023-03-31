@@ -1,6 +1,6 @@
 Name:		texlive-exam-n
 Version:	64674
-Release:	1
+Release:	2
 Summary:	Exam class, focused on collaborative authoring
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exam-n
