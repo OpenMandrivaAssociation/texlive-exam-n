@@ -3,7 +3,7 @@ Version:	64674
 Release:	2
 Summary:	Exam class, focused on collaborative authoring
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exam-n
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/exam-n
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exam-n.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exam-n.doc.r%{version}.tar.xz
